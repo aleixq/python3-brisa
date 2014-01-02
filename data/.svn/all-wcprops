@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/data
+END
+brisa.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/data/brisa.install
+END
+base-repository.install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/data/base-repository.install
+END

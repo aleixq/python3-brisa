@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/generic_device
+END
+generic_device.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/generic_device/generic_device.py
+END
+generic_device_events.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/generic_device/generic_device_events.py
+END
+myservice-scpd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/generic_device/myservice-scpd.xml
+END
+myservice.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/generic_device/myservice.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light
+END
+binary_light.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/binary_light.py
+END
+SwitchPower-scpd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/SwitchPower-scpd.xml
+END
+negator_cp.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/negator_cp.py
+END
+simplest_cp.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/simplest_cp.py
+END
+cmd_line_control_point.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/cmd_line_control_point.py
+END

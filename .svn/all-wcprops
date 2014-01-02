@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/INSTALL
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/setup.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/CHANGES
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/README
+END

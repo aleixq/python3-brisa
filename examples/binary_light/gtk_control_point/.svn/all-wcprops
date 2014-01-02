@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/gtk_control_point
+END
+gtk_control_point.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/gtk_control_point/gtk_control_point.py
+END
+lightcp.glade
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/gtk_control_point/lightcp.glade
+END
+control_point_bl.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/binary_light/gtk_control_point/control_point_bl.py
+END

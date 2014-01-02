@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples
+END
+control_point_events.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/control_point_events.py
+END
+control_point_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/control_point_gtk.py
+END
+control_point_av.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/control_point_av.py
+END
+control_point_gtk.glade
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/control_point_gtk.glade
+END
+simple_control_point.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/simple_control_point.py
+END
+webserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/brisa/!svn/ver/1741/python/trunk/python-brisa/examples/webserver.py
+END

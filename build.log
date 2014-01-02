@@ -1,0 +1,7 @@
+dpkg-buildpackage: modifica CFLAGS para o valor padrão: -g -O2
+dpkg-buildpackage: modifica CPPFLAGS para o valor padrão: 
+dpkg-buildpackage: modifica LDFLAGS para o valor padrão: -Wl,-Bsymbolic-functions
+dpkg-buildpackage: modifica FFLAGS para o valor padrão: -g -O2
+dpkg-buildpackage: modifica CXXFLAGS para o valor padrão: -g -O2
+tail: não foi possível abrir `debian/changelog' para leitura: Arquivo ou diretório não encontrado
+dpkg-buildpackage: erro: fim de debian/changelog gave error exit status 1

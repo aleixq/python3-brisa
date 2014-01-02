@@ -1,0 +1,7 @@
+python3-brisa (0.10.1ubuntu1) UNRELEASED; urgency=low
+
+  * python3-brisa (0.10.1) unstable; urgency=low
+  * Repack in python3 Coming from python-brisa 0.10.1maemo0
+  * 
+
+ -- Aleix Quintana Alsius (kinta) <kinta@communia.org>  Thu, 02 Jan 2014 10:50:46 +0100
