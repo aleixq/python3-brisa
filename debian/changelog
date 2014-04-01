@@ -1,7 +1,7 @@
-python3-brisa (0.10.1ubuntu1) UNRELEASED; urgency=low
+python3-brisa (0.10.1ubuntu2) trusty; urgency=low
 
   * python3-brisa (0.10.1) unstable; urgency=low
   * Repack in python3 Coming from python-brisa 0.10.1maemo0
-  * 
+  * Replace _ElementInterface alias of Element class ( http://bugs.python.org/issue17988 ).
 
- -- Aleix Quintana Alsius (kinta) <kinta@communia.org>  Thu, 02 Jan 2014 10:50:46 +0100
+ -- Aleix Quintana Alsius (kinta) <kinta@communia.org>  Tue, 01 Apr 2014 19:26:32 +0200
