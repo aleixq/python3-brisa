@@ -5,7 +5,7 @@
 """ DIDL-Lite classes (object, items, containers and etc).
 """
 
-from xml.etree.ElementTree import _ElementInterface
+from xml.etree.ElementTree import Element
 from xml.etree import cElementTree as ElementTree
 
 from brisa.core import log
@@ -2635,13 +2635,13 @@ class StorageFolder(Container):
         return root
 
 
-class Element(_ElementInterface):
+class Element(Element):
     """ Wrapper for elements. Can mount a complete tree of DIDL UPnP classes
     from a string and also mount the string from a complete tree.
     """
 
     def __init__(self):
-        _ElementInterface.__init__(self, 'DIDL-Lite', {})
+        Element.__init__(self, 'DIDL-Lite', {})
         self.attrib['xmlns'] = 'urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/'
         self.attrib['xmlns:dc'] = 'http://purl.org/dc/elements/1.1/'
         self.attrib['xmlns:upnp'] = 'urn:schemas-upnp-org:metadata-1-0/upnp/'
